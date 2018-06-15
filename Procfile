@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ikajava_crowdbotics_235.wsgi:application
